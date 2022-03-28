@@ -1,0 +1,19 @@
+.text-center {
+  text-align: center !important;
+}
+
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.d-between {
+  display: flex;
+  justify-content: space-between;
+}
+.text-right {
+  text-align: right;
+}
+table, th, td {
+  border:1px solid black;
+}
