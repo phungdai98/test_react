@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/phungdai98/test_react/static/css/main.acc16fec.chunk.css",
+    "main.js": "/phungdai98/test_react/static/js/main.19b8241d.chunk.js",
+    "main.js.map": "/phungdai98/test_react/static/js/main.19b8241d.chunk.js.map",
+    "runtime-main.js": "/phungdai98/test_react/static/js/runtime-main.97402cb8.js",
+    "runtime-main.js.map": "/phungdai98/test_react/static/js/runtime-main.97402cb8.js.map",
+    "static/css/2.5d9257f0.chunk.css": "/phungdai98/test_react/static/css/2.5d9257f0.chunk.css",
+    "static/js/2.80cc1d0a.chunk.js": "/phungdai98/test_react/static/js/2.80cc1d0a.chunk.js",
+    "static/js/2.80cc1d0a.chunk.js.map": "/phungdai98/test_react/static/js/2.80cc1d0a.chunk.js.map",
+    "index.html": "/phungdai98/test_react/index.html",
+    "precache-manifest.67ca1ec2b8fd6fc5ad203714331d8442.js": "/phungdai98/test_react/precache-manifest.67ca1ec2b8fd6fc5ad203714331d8442.js",
+    "service-worker.js": "/phungdai98/test_react/service-worker.js",
+    "static/css/2.5d9257f0.chunk.css.map": "/phungdai98/test_react/static/css/2.5d9257f0.chunk.css.map",
+    "static/css/main.acc16fec.chunk.css.map": "/phungdai98/test_react/static/css/main.acc16fec.chunk.css.map",
+    "static/js/2.80cc1d0a.chunk.js.LICENSE.txt": "/phungdai98/test_react/static/js/2.80cc1d0a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97402cb8.js",
+    "static/css/2.5d9257f0.chunk.css",
+    "static/js/2.80cc1d0a.chunk.js",
+    "static/css/main.acc16fec.chunk.css",
+    "static/js/main.19b8241d.chunk.js"
+  ]
+}
